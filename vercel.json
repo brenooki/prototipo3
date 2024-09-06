@@ -1,9 +1,9 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/login.html" },
-    { "source": "/painel", "destination": "/painel.html" },
-    { "source": "/ponto", "destination": "/ponto.html" },
-    { "source": "/colaborador", "destination": "/colaborador.html" }
+    { "source": "/", "destination": "login.html" },
+    { "source": "/painel", "destination": "painel.html" },
+    { "source": "/ponto", "destination": "ponto.html" },
+    { "source": "/colaborador", "destination": "colaborador.html" }
   ],
   "cleanUrls": true,
   "trailingSlash": false
