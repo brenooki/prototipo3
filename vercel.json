@@ -1,0 +1,11 @@
+{
+    "routes": [
+      { "src": "/", "dest": "/login.html" },
+      { "src": "/painel", "dest": "/painel.html" },
+      { "src": "/ponto", "dest": "/ponto.html" },
+      { "src": "/colaborador", "dest": "/colaborador.html" }
+    ],
+    "cleanUrls": true,
+    "trailingSlash": false
+  }
+  
